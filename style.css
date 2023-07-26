@@ -7,6 +7,12 @@ body, h1, h2, h3, p, ul, li {
 body {
   font-family: Arial, sans-serif;
 }
+body {
+  background-image: url("abstract-optical-laser-background.jpg");
+  background-size: cover; /* Adjust as needed: cover, contain, etc. */
+  background-repeat: no-repeat;
+  background-position: center;
+}
 
 /* Style the header and navigation */
 header {
